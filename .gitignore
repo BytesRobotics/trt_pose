@@ -3,3 +3,6 @@ dist
 trt_pose.egg-info
 tasks/human_pose/resnet18_baseline_att_224x224_A_epoch_249.pth
 tasks/human_pose/traced_people_trakcer_model.pt
+/tasks/human_pose/traced_people_tracker_model_cmap_paf_head.pt
+/tasks/human_pose/traced_people_tracker_model_resnet.pt
+/tasks/human_pose/traced_people_tracker_model_split.pt
